@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-=======
-Hello! 
-It is me here!
->>>>>>> parent of bc57438... added my fav movie
+Git test
+by Me
